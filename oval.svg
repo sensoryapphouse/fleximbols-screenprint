@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 481" width="580" height="481">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2405" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="282,8 282,8 288,9 294,9 307,13 319,19 330,27 341,37 351,49 360,62 369,77 377,94 384,112 390,131 395,152 399,173 402,196 404,219 404,243 404,243 404,267 402,290 399,313 394,334 389,355 383,374 376,392 368,409 359,424 349,437 339,449 328,459 317,467 305,472 293,476 286,477 280,477 280,477 274,477 267,476 255,472 243,466 232,458 221,448 211,437 202,423 193,408 185,391 178,373 172,354 167,333 163,312 160,289 158,266 157,242 157,242 158,218 160,195 163,172 167,151 173,130 179,111 186,93 194,77 203,61 213,48 223,36 234,26 245,19 257,13 269,9 275,8 282,8 282,8" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+  </g>
+</svg>

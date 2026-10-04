@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="8,335 28,256 94,168 185,106 188,104 306,92 444,139 529,237 564,334 520,370 428,401 270,410 127,394 29,356 8,335" fill="#ccced0" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="189,110 191,152 306,92 327,174 444,139 450,256 529,237 522,359 448,261 426,395 342,298 270,402 213,277 127,387 88,258 31,345 28,256 88,250 94,168 187,146 210,264 324,179 340,291 443,264" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="444,256 327,174 191,152 93,254 212,270 340,291" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

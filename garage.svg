@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="143,169 10,220 168,222 388,98 549,225 563,221 387,86 143,169" fill="#ed1c24" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="28,224 29,353 178,391 234,388 228,227 505,238 505,381 544,381 544,221 388,98 168,222 28,224" fill="#edd4bd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="187,215 185,392" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="234,388 232,229 505,238 505,381 234,388" fill="#dcddde" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="232,252 506,255" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="233,267 507,270" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="234,281 509,284" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="234,295 509,298" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="232,312 506,316" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="230,325 505,329" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="230,339 505,343" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="232,351 506,355" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="232,365 506,369" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

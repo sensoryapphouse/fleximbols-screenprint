@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="522,121 342,121 342,78 522,78 522,121" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="495,322 387,466 352,439 460,295 495,322" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="475,458 349,330 380,299 506,428 475,458" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="238,398 57,398 57,354 238,354 238,398" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="169,286 169,466 126,466 126,286 169,286" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="234,120 53,120 53,77 234,77 234,120" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="167,29 167,29 166,33 165,38 163,42 160,45 157,48 153,50 148,52 144,52 144,52 139,52 134,50 130,48 127,45 124,42 122,38 121,33 120,29 120,29 121,24 122,20 124,16 127,12 130,10 134,7 139,6 144,6 144,6 148,6 153,7 157,10 160,12 163,16 165,20 166,24 167,29 167,29" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="168,165 168,165 168,170 166,174 164,178 161,182 158,185 154,187 150,188 145,189 145,189 140,188 136,187 132,185 129,182 126,178 124,174 122,170 122,165 122,165 122,161 124,156 126,152 129,149 132,146 136,144 140,143 145,142 145,142 150,143 154,144 158,146 161,149 164,152 166,156 168,161 168,165 168,165" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+  </g>
+</svg>

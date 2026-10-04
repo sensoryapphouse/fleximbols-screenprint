@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 510" width="580" height="510">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2550" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <text x="22" y="150" fill="#000000" font-size="12">1</text>
+    <text x="470" y="207" fill="#000000" font-size="12">6</text>
+    <text x="449" y="465" fill="#000000" font-size="12">8</text>
+    <text x="272" y="143" fill="#000000" font-size="12">7</text>
+    <text x="267" y="267" fill="#000000" font-size="12">9</text>
+    <text x="113" y="252" fill="#000000" font-size="12">2</text>
+    <text x="35" y="402" fill="#000000" font-size="12">3</text>
+    <text x="186" y="412" fill="#000000" font-size="12">4</text>
+    <text x="381" y="331" fill="#000000" font-size="12">5</text>
+  </g>
+</svg>

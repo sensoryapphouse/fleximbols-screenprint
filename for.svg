@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 290 240" width="290" height="240">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1200" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="26,95 40,95 40,88 40,88 41,78 43,70 43,70 46,65 52,61 52,61 60,58 69,57 69,57 80,58 90,60 87,77 87,77 81,76 75,76 75,76 71,77 67,78 67,78 66,82 65,88 65,95 84,95 84,115 65,115 65,190 40,190 40,115 26,115 26,95" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <path d="M92,141L92,141L92,135L93,129L95,123L98,117L98,117L101,111L105,107L110,103L115,99L115,99L121,96L127,95L134,93L140,93L140,93L151,94L160,97L168,101L176,107L176,107L182,114L186,123L188,132L189,142L189,142L188,152L186,162L182,170L175,178L175,178L168,184L160,188L151,191L141,192L141,192L134,191L128,190L122,188L116,186L116,186L110,183L105,179L101,174L98,169L98,169L95,163L93,156L92,149L92,141L92,141Z M117,142L117,142L118,149L119,155L121,160L124,164L124,164L128,167L132,169L136,171L141,171L141,171L145,171L150,169L153,167L157,164L157,164L160,160L162,155L163,149L164,142L164,142L163,136L162,130L160,125L157,121L157,121L153,118L150,115L145,114L141,113L141,113L136,114L132,115L128,118L124,121L124,121L121,125L119,130L118,136L117,142L117,142Z" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polygon points="233,190 208,190 208,95 231,95 231,109 231,109 237,101 242,96 242,96 247,94 252,93 252,93 261,94 269,98 261,120 261,120 255,116 249,115 249,115 245,116 241,118 241,118 237,122 235,129 235,129 233,141 233,160 233,190" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+  </g>
+</svg>

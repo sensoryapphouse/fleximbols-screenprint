@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 582 480" width="582" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2910" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="6,188 156,119 293,309 143,383 6,188" fill="#987361" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="88,193 238,124 374,313 225,388 88,193" fill="#987361" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="156,192 306,123 442,312 293,387 156,192" fill="#987361" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="203,123 353,54 490,244 340,318 203,123" fill="#987361" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="282,148 432,79 569,269 419,343 282,148" fill="#987361" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="399,321 408,307 408,307 413,306 417,305 423,304 423,304 423,300 423,296 424,294 424,294 430,289 433,286 435,286 436,286 436,286 444,291 452,296 452,296 457,297 466,297 466,297 478,297 478,297 481,298 483,300 485,303 485,303 486,311 488,315 491,318 491,318 518,333 516,338 516,338 517,340 516,342 513,342 513,342 513,343 513,344 518,347 526,351 526,351 531,352 534,354 535,356 535,357 535,357 536,365 386,365 373,362 373,362 373,360 374,357 377,355 377,355 382,350 384,348 383,341 383,341 384,338 385,335 387,334 387,334 389,334 388,334 391,333 391,333 397,331 399,330 399,327 399,327 399,321 399,321" fill="#987361" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+  </g>
+</svg>

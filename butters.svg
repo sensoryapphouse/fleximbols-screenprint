@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="165,388 138,427 138,427 136,432 134,437 134,443 135,446 136,449 139,452 142,455 147,457 153,458 160,460 169,460 448,453 448,453 455,454 462,453 469,452 473,450 476,448 478,446 480,442 481,438 481,433 479,427 476,420 438,366 290,371 217,366 165,388" fill="#d1d1d2" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="430,421 175,425 157,310 443,309 430,421" fill="#f6eb14" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="441,305 158,307 209,264 401,264 441,305" fill="#fbf4a2" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="424,307 170,311 151,196 438,194 424,307" fill="#f6eb14" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="436,190 153,192 204,149 396,150 436,190" fill="#fbf4a2" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="424,189 170,193 151,78 438,76 424,189" fill="#f6eb14" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="436,72 153,75 204,31 396,32 436,72" fill="#fbf4a2" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="173,404 154,434 154,434 153,435 153,437 153,438 154,440 156,442 160,443 166,444 446,436 446,436 449,436 455,435 457,433 460,431 461,427 461,422 434,378" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

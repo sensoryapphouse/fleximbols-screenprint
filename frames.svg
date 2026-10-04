@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 587 489" width="587" height="489">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2935" bottom="2445" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="585,487 2,487 2,2 585,2 585,487" fill="#ffffff" stroke="#ffffff" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="438,228 170,228 170,48 438,48 438,228" fill="#967a66" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="425,215 182,215 182,61 425,61 425,215" fill="#af8977" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="418,209 190,209 190,68 418,68 418,209" fill="#def2fd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="283,439 14,439 14,259 283,259 283,439" fill="#967a66" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="269,426 26,426 26,272 269,272 269,426" fill="#af8977" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="262,420 34,420 34,279 262,279 262,420" fill="#def2fd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="574,439 305,439 305,259 574,259 574,439" fill="#967a66" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="560,426 318,426 318,272 560,272 560,426" fill="#af8977" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="553,420 325,420 325,279 553,279 553,420" fill="#def2fd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+  </g>
+</svg>

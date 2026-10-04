@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 290 240" width="290" height="240">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1200" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="285,30 10,30 10,92 285,92 285,30" fill="#ff7f00" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="285,92 10,92 10,155 285,155 285,92" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="10,155 10,216 285,216 285,155 10,155" fill="#26ae2c" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="284,216 8,216 8,29 284,29 284,216" fill="none" stroke="#000000" stroke-width="4" fill-rule="evenodd"/>
+    <path d="M147,97L147,97L141,97L136,99L132,101L128,104L124,108L122,113L120,118L120,123L120,123L120,129L122,134L124,138L128,142L132,145L136,148L141,149L147,150L147,150L152,149L157,148L162,145L166,142L169,138L171,134L173,129L173,123L173,123L173,118L171,113L169,108L166,104L162,101L157,99L152,97L147,97L147,97Z M167,112L167,115L169,117L154,120L167,112Z M162,108L165,109L153,117L161,105L162,108Z M153,123L153,123L152,126L151,128L149,129L147,130L147,130L144,129L142,128L141,126L140,123L140,123L141,121L142,119L144,117L147,117L147,117L149,117L151,119L152,121L153,123L153,123Z M153,101L155,103L158,103L150,116L153,101Z M147,101L149,100L147,115L144,100L147,101Z M138,103L140,101L144,116L135,103L138,103Z M131,108L132,105L141,117L128,109L131,108Z M126,112L139,120L124,117L126,115L126,112Z M123,121L138,123L123,126L125,123L123,121Z M126,135L126,132L124,130L139,126L126,135Z M131,139L128,138L141,129L132,142L131,139Z M140,146L138,144L135,144L143,131L140,146Z M147,145L144,147L147,132L149,147L147,145Z M155,144L153,146L150,131L158,144L155,144Z M162,139L161,142L153,129L165,138L162,139Z M167,135L154,127L169,130L167,132L167,135Z M155,123L170,121L169,123L170,126L155,123Z" fill="#5250ac" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="150,123 150,123 149,126 147,127 147,127 144,126 143,123 143,123 144,121 147,120 147,120 149,121 150,123 150,123" fill="#5250ac" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+  </g>
+</svg>

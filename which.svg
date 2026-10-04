@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 290 240" width="290" height="240">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1200" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="84,210 40,210 40,166 84,166 84,210" fill="#1b1076" stroke="#000000" stroke-width="6" fill-rule="evenodd" />
+    <polygon points="86,126 86,126 85,130 84,135 81,139 78,143 75,146 71,148 66,149 62,150 62,150 57,149 52,148 48,146 45,143 42,139 39,135 38,130 38,126 38,126 38,121 39,116 42,112 45,109 48,106 52,104 57,102 62,102 62,102 66,102 71,104 75,106 78,109 81,112 84,116 85,121 86,126 86,126" fill="#ffff00" stroke="#000000" stroke-width="5" fill-rule="evenodd" />
+    <polygon points="66,20 76,40 98,43 82,59 85,81 66,71 46,81 49,59 33,43 56,40 66,20" fill="#26ae2c" stroke="#000000" stroke-width="5" fill-rule="evenodd" />
+    <path d="M162,161L162,153L162,153L162,141L164,135L166,129L168,122L171,116L175,110L180,104L180,104L187,95L193,87L197,79L198,75L199,71L199,71L198,67L197,63L195,60L193,58L190,55L186,54L181,53L176,52L176,52L168,53L159,55L152,58L145,62L134,27L134,27L144,23L156,18L170,16L187,14L187,14L201,15L213,18L224,23L232,29L239,36L243,45L246,54L247,63L247,63L246,72L244,80L242,87L238,94L234,100L229,106L220,116L220,116L213,126L208,135L205,145L204,155L204,161L162,161Z M182,233L182,233L176,233L171,231L166,229L162,225L158,221L156,216L154,211L154,205L154,205L155,199L156,193L159,188L162,184L166,181L171,178L176,177L182,176L182,176L188,177L193,178L198,181L202,184L206,188L208,193L210,199L210,205L210,205L210,211L208,216L206,221L203,225L199,229L194,231L188,233L182,233L182,233Z" fill="#ff0000" stroke="#000000" stroke-width="6" fill-rule="evenodd" />
+  </g>
+</svg>

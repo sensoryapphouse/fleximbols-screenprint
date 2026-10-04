@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="442,350 195,406 120,78 368,22 442,350" fill="#eceded" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="443,355 213,462 72,157 302,50 443,355" fill="#eceded" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="503,357 273,464 131,159 361,52 503,357" fill="#eceded" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="476,418 223,395 254,60 506,83 476,418" fill="#eceded" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="281,102 482,122" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="278,119 480,139" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="272,141 473,161" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="272,166 473,186" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="272,190 473,210" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="272,207 473,227" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="272,225 473,245" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="265,251 466,271" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="262,271 464,291" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="260,285 461,305" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="260,299 461,319" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="260,321 461,341" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="260,337 461,357" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="257,354 458,374" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

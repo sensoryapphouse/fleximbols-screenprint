@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 291 240" width="291" height="240">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="1455" bottom="1200" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="250,227 250,227 255,227 262,227 262,227 264,228 266,229 266,231 265,232 265,232 257,232 250,232 250,232 249,231 248,230 249,228 250,227 250,227" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="230,206 230,206 236,196 243,183 243,183 244,182 246,183 246,185 246,186 246,186 238,197 234,204 232,208 232,208 231,209 231,208 231,209 231,209 226,210 218,212 208,215 207,214 230,206" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="208,214 208,214 211,218 214,223 214,223 214,226 213,228 212,229 210,228 210,228 207,222 204,216 204,216 205,215 206,214 207,213 208,214 208,214" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="255,202 255,202 256,202 256,202 254,208 253,217 251,228 249,228 252,203 252,203 246,194 250,194 250,194 253,199 255,202 255,202" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="252,180 251,180 251,180 250,180 231,178 226,201 238,207 242,193 247,204 258,196 252,183 252,183 252,180 252,180" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="250,148 250,148 253,156 257,169 257,169 267,170 272,172 278,174 277,175 277,175 271,173 264,172 256,171 256,171 256,171 255,171 255,171 253,164 251,157 247,148 247,148 247,147 248,146 249,147 250,148 250,148" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="282,173 282,173 281,174 280,174 276,174 276,174 272,173 270,171 270,171 271,171 272,170 276,170 276,170 280,171 282,173 282,173" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="256,157 256,157 255,155 252,149 250,147 248,145 245,144 243,144 243,144 242,145 241,145 240,147 241,149 242,152 245,156 250,162 250,162 251,160 256,157 256,157" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="244,178 252,178 252,178 252,176 253,172 252,164 250,153 250,153 248,148 245,145 243,144 240,144 235,146 233,147 233,147 231,154 232,159 232,165 231,176 244,178" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="238,149 238,149 231,154 219,161 219,161 220,171 220,176 219,182 218,182 218,182 219,175 218,168 216,160 216,160 216,160 216,160 216,160 223,156 229,152 237,146 237,146 238,146 239,147 238,148 238,149 238,149" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="220,190 220,190 220,190 219,189 218,185 218,185 218,181 219,178 219,178 220,179 221,180 222,183 222,183 222,188 220,190 220,190" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="229,158 229,158 231,157 237,155 240,153 242,151 243,148 242,146 242,146 242,144 241,144 240,143 238,143 235,145 230,148 224,152 224,152 226,154 229,158 229,158" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="232,183 232,183 232,184 233,187 234,189 235,191 238,192 242,193" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd" />
+    <polyline points="232,183 232,183 232,184 233,187 234,189 235,191 238,192 242,193" fill="none" stroke="#000000" stroke-width="4" />
+    <polygon points="235,128 235,128 234,133 235,137 237,141 240,143 244,144 247,143 250,139 252,133 252,133 252,128 251,125 249,122 246,121 243,121 240,122 237,125 235,128 235,128" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="231,177 244,178 231,176 231,176 231,177 231,177" fill="#000000" stroke="#000000" stroke-width="4" fill-rule="evenodd" />
+    <polygon points="44,234 11,234 11,115 44,115 44,234" fill="#f8130d" stroke="#000000" stroke-width="6" fill-rule="evenodd" />
+    <polygon points="204,178 175,165 174,173 54,173 54,184 174,184 174,192 204,178" fill="#000000" stroke="#000000" stroke-width="5" fill-rule="evenodd" />
+    <polygon points="33,48 33,4 17,4 17,48 5,48 26,93 45,48 33,48" fill="#f8130d" stroke="#000000" stroke-width="6" fill-rule="evenodd" />
+  </g>
+</svg>

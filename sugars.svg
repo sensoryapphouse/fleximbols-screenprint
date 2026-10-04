@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="139,43 145,172 280,251 414,169 426,48 279,12 139,43" fill="#fef8c1" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="139,43 274,98 424,52" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="274,98 280,251" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="259,122 266,251 401,330 534,248 547,127 400,91 259,122" fill="#fef8c1" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="259,122 394,177 545,130" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="394,177 401,330" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="45,162 52,292 186,371 320,289 333,167 186,131 45,162" fill="#fef8c1" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="45,162 180,217 331,171" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="180,217 186,371" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="202,260 208,389 343,469 477,387 489,265 342,229 202,260" fill="#fef8c1" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="202,260 336,315 487,269" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="336,315 343,469" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

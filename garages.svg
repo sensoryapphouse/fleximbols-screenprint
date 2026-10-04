@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}'" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="173,76 86,109 190,111 334,29 439,112 448,110 333,21 173,76" fill="#ed1c24" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="98,111 99,196 196,221 233,219 229,114 410,121 410,214 436,214 436,110 334,29 190,111 98,111" fill="#edd4bd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="202,106 201,222" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="233,219 231,115 410,121 410,214 233,219" fill="#dcddde" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="231,130 411,132" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="232,140 412,142" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="233,149 413,151" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="233,158 413,160" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="231,169 411,172" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="230,178 410,180" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="230,187 410,189" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="231,195 411,198" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="231,204 411,207" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="276,190 189,223 292,225 437,143 542,226 551,224 436,135 276,190" fill="#ed1c24" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="201,225 201,310 299,335 336,333 332,228 513,235 513,328 538,328 538,224 437,143 292,225 201,225" fill="#edd4bd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="305,220 303,336" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="336,333 334,229 513,235 513,328 336,333" fill="#dcddde" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="334,244 514,246" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="335,254 514,256" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="336,263 515,265" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="336,272 515,274" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="334,283 514,286" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="333,292 513,294" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="333,301 513,303" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="334,309 514,312" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="334,318 514,321" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="127,316 40,350 143,351 287,270 393,353 402,350 287,262 127,316" fill="#ed1c24" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="51,352 52,436 150,461 186,460 183,354 364,361 364,455 389,455 389,350 287,270 143,351 51,352" fill="#edd4bd" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="156,346 154,462" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="186,460 185,355 364,361 364,455 186,460" fill="#dcddde" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polyline points="185,370 365,373" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="186,380 365,383" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="186,389 366,392" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="186,398 366,401" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="185,410 365,412" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="184,418 364,421" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="184,427 364,430" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="185,436 365,438" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="185,445 365,447" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

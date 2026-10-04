@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info>
+      <mdcr:source format="WMF" generator="wmf2svg.html" />
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440" />
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{" />
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd" />
+        <mdcr:record tag="MDCR-}&lt;" />
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="345,125 226,125 226,80 345,80 345,125" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="343,326 224,326 224,275 343,275 343,326" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="314,175 260,175 260,127 314,127 314,175" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="375,229 202,229 202,175 375,175 375,229" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="314,274 259,274 259,230 314,230 314,274" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="314,368 257,368 257,326 314,326 314,368" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <text x="275" y="360" fill="#000000" font-size="12">1</text>
+    <text x="243" y="310" fill="#000000" font-size="12">2</text>
+    <text x="295" y="308" fill="#000000" font-size="12">3</text>
+    <text x="272" y="266" fill="#000000" font-size="12">4</text>
+    <text x="220" y="217" fill="#000000" font-size="12">5</text>
+    <text x="272" y="214" fill="#000000" font-size="12">6</text>
+    <text x="332" y="214" fill="#000000" font-size="12">7</text>
+    <text x="275" y="165" fill="#000000" font-size="12">8</text>
+    <text x="241" y="115" fill="#000000" font-size="12">9</text>
+    <text x="293" y="115" fill="#000000" font-size="12">10</text>
+    <polyline points="285,81 285,126" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="260,175 260,230" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="286,274 286,329" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="312,173 312,229" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="535,125 416,125 416,80 535,80 535,125" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="532,326 413,326 413,275 532,275 532,326" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="503,175 450,175 450,127 503,127 503,175" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="564,229 391,229 391,175 564,175 564,229" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="503,274 448,274 448,230 503,230 503,274" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="503,368 447,368 447,326 503,326 503,368" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <text x="465" y="360" fill="#000000" font-size="12">1</text>
+    <text x="433" y="310" fill="#000000" font-size="12">2</text>
+    <text x="485" y="308" fill="#000000" font-size="12">3</text>
+    <text x="462" y="266" fill="#000000" font-size="12">4</text>
+    <text x="410" y="217" fill="#000000" font-size="12">5</text>
+    <text x="462" y="214" fill="#000000" font-size="12">6</text>
+    <text x="522" y="214" fill="#000000" font-size="12">7</text>
+    <text x="465" y="165" fill="#000000" font-size="12">8</text>
+    <text x="431" y="115" fill="#000000" font-size="12">9</text>
+    <text x="480" y="115" fill="#000000" font-size="12">10</text>
+    <polyline points="475,81 475,126" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="450,175 450,230" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="475,274 475,329" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="502,173 502,229" fill="none" stroke="#000000" stroke-width="8" />
+    <polygon points="156,125 37,125 37,80 156,80 156,125" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="153,326 34,326 34,275 153,275 153,326" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="124,175 71,175 71,127 124,127 124,175" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="185,229 12,229 12,175 185,175 185,229" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="124,274 69,274 69,230 124,230 124,274" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <polygon points="124,368 68,368 68,326 124,326 124,368" fill="none" stroke="#000000" stroke-width="8" fill-rule="evenodd" />
+    <text x="84" y="360" fill="#000000" font-size="12">1</text>
+    <text x="53" y="310" fill="#000000" font-size="12">2</text>
+    <text x="105" y="308" fill="#000000" font-size="12">3</text>
+    <text x="82" y="266" fill="#000000" font-size="12">4</text>
+    <text x="30" y="217" fill="#000000" font-size="12">5</text>
+    <text x="84" y="214" fill="#000000" font-size="12">6</text>
+    <text x="142" y="214" fill="#000000" font-size="12">7</text>
+    <text x="84" y="165" fill="#000000" font-size="12">8</text>
+    <text x="51" y="115" fill="#000000" font-size="12">9</text>
+    <text x="103" y="115" fill="#000000" font-size="12">10</text>
+    <polyline points="96,81 96,126" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="71,175 71,230" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="96,274 96,329" fill="none" stroke="#000000" stroke-width="8" />
+    <polyline points="123,173 123,229" fill="none" stroke="#000000" stroke-width="8" />
+  </g>
+</svg>

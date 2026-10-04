@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 586 489" width="586" height="489">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2930" bottom="2445" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="584,487 2,487 2,2 584,2 584,487" fill="#ffffff" stroke="#ffffff" stroke-width="4" fill-rule="evenodd"/>
+    <polygon points="108,475 87,468 266,26 284,33 108,475 108,475" fill="#5d240e" stroke="#010101" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="475,303 196,198 262,24 541,130 475,303 475,303" fill="#ffffff" stroke="#010101" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="513,187 527,153 457,164 513,187 513,187" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="507,121 423,90 402,142 507,121 507,121" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="509,198 389,153 414,85 386,76 361,144 239,96 228,128 350,174 325,241 350,251 375,185 497,230 509,198 509,198" fill="#c12126" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="232,208 314,237 334,187 232,208 232,208" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="432,221 479,280 493,244 432,221 432,221" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="359,255 441,285 377,205 359,255 359,255" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="223,140 210,176 282,162 223,140 223,140" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="257,51 244,85 300,108 257,51 257,51" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="377,74 291,40 357,124 377,74 377,74" fill="#263270" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="210,176 203,194 203,194 312,174 282,162 210,176 210,176" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="425,153 457,164 527,153 536,133 425,153 425,153" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="223,203 232,208 334,187 337,183 332,183 223,203 223,203" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="312,174 203,194 223,203 332,183 312,174 312,174" fill="#c12126" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="507,121 402,142 402,144 405,146 516,126 507,121 507,121" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="516,126 405,146 425,153 536,133 536,133 516,126 516,126" fill="#c12126" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="402,210 380,201 377,205 441,285 470,296 402,210 402,210" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="357,124 291,40 264,31 264,31 332,119 357,128 357,124 357,124" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="479,280 432,221 425,217 477,287 479,280 479,280" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="425,217 402,210 470,296 473,298 477,287 425,217 425,217" fill="#c12126" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="257,51 300,108 312,110 259,42 257,51 257,51" fill="#ffffff" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polygon points="264,31 259,42 312,110 332,119 264,31 264,31" fill="#c12126" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+  </g>
+</svg>
